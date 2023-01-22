@@ -8,3 +8,5 @@ print("Startar...")
 var = importantCalceri()
 
 print(var)
+
+print("slut")
